@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/demo-pandas-energy/static/css/main.ac1acd77.css",
-    "main.js": "/demo-pandas-energy/static/js/main.98bdfe9d.js",
+    "main.js": "/demo-pandas-energy/static/js/main.b9bb72fd.js",
     "static/js/209.4b48030c.chunk.js": "/demo-pandas-energy/static/js/209.4b48030c.chunk.js",
     "static/js/68.70565d37.chunk.js": "/demo-pandas-energy/static/js/68.70565d37.chunk.js",
     "static/media/jupyterlab-wordmark.svg": "/demo-pandas-energy/static/media/jupyterlab-wordmark.06de3f6f47040a96e1b75f57ff2be41f.svg",
@@ -90,6 +90,6 @@
   },
   "entrypoints": [
     "static/css/main.ac1acd77.css",
-    "static/js/main.98bdfe9d.js"
+    "static/js/main.b9bb72fd.js"
   ]
 }
